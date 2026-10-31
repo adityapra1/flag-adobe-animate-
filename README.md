@@ -7,6 +7,8 @@ YouTube Link: https://youtu.be/jsEyEloYPWc?si=CWIuf6Y4QegwaatI
 
 
 step
+
+
 Set the Background: Open Synfig Studio, navigate to Layer > New Layer > Geometry > Solid Color, and establish an orange background.
 
 Draw the Flagpole: Use the Rectangle Tool to draw a tall vertical rectangle, change its color to brown, and cap the top with a smaller black rectangle.
