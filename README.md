@@ -3,6 +3,9 @@
 
 4- Blog
 YouTube Link: https://youtu.be/jsEyEloYPWc?si=CWIuf6Y4QegwaatI
+
+
+
 step
 Set the Background: Open Synfig Studio, navigate to Layer > New Layer > Geometry > Solid Color, and establish an orange background.
 
